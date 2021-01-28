@@ -20,7 +20,7 @@ When I'm not programming, you can find me nerding out over sci-fi, listening to 
 I'm always looking to talk about code (or anything else, really 😁) and meet new people!
 
 [![LinkedIn Shield](https://img.shields.io/static/v1?label=&message=Curtis+Bartell&color=grey&style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/curtis-bartell/)
-[![GMail Shield](https://img.shields.io/static/v1?label=&message=curtis.c.bartell@gmail.com&color=grey&style=flat-square&logo=Gmail)](mailto:cbartell980@gmail.com?subject=Let's%20chat!)
+[![GMail Shield](https://img.shields.io/static/v1?label=&message=curtis.c.bartell@gmail.com&color=grey&style=flat-square&logo=Gmail)](mailto:curtis.c.bartell@gmail.com?subject=Let's%20chat!)
 [![Twitter Shield](https://img.shields.io/static/v1?label=&message=@curtis_codes&color=grey&style=flat-square&logo=twitter)](https://twitter.com/curtis_codes)
 
 <!--
