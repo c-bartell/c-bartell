@@ -10,11 +10,12 @@ When I'm not programming, you can find me nerding out over sci-fi, listening to 
 
 
 ### I'm currently working on:
-- [CarbonKnight](https://carbon-knight.herokuapp.com/), an app that allows users to track the carbon footprint of their monthly vehicle usage over time
+- [JobQuest](https://github.com/JobQuest), a gamified, group oriented app that encourages users to complete tasks for their job hunt
 - Currently looking for new opportunities
 
 ### I'm currently learning:
 - JavaScript / Node.JS
+- Python / Flask
 
 ### Get in touch with me! 📣
 I'm always looking to talk about code (or anything else, really 😁) and meet new people!
