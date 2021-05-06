@@ -1,16 +1,16 @@
 ## Hello, World! I'm Curtis. He/Him 👾
 
 ### 🤖 Curtis the Programmer:
-I'm a Software Engineer in Denver, CO, and a student at [The Turing School of Software and Design](https://turing.io/). I'm a passionate learner, relentless tinkerer, and persistent in the application of my creativity and expertise to solve complex problems.
+I'm a Software Engineer in Denver, CO, and a graduate of the Backend Engineering program at [The Turing School of Software and Design](https://turing.edu/). I'm a passionate learner, relentless tinkerer, and persistent in the application of my creativity and expertise to solve complex problems.
 
 [![Curtis's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-bartell&count_private=true&show_icons=true&theme=synthwave)](https://github.com/c-bartell)
 
 ### 🤘 Curtis the Human:
-When I'm not programming, you can find me nerding out over sci-fi, listening to metal, playing videogames, or hanging out with my shih tzu, Eevee. 🐶
+When I'm not programming, you can find me nerding out over sci-fi, listening to metal, playing videogames, or hanging out with my partner, Danielle and our shih tzu, Eevee. 🐶
 
 
 ### I'm currently working on:
-- [CarbonKnight](https://carbon-knight.herokuapp.com/), an app that allows users to track the carbon footprint of their monthly vehicle usage over time
+- [Diaper](https://www.humanessentials.app/), an open-source inventory management solution for diaper banks
 - Currently looking for new opportunities
 
 ### I'm currently learning:
@@ -20,7 +20,7 @@ When I'm not programming, you can find me nerding out over sci-fi, listening to 
 I'm always looking to talk about code (or anything else, really 😁) and meet new people!
 
 [![LinkedIn Shield](https://img.shields.io/static/v1?label=&message=Curtis+Bartell&color=grey&style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/curtis-bartell/)
-[![GMail Shield](https://img.shields.io/static/v1?label=&message=curtis.c.bartell@gmail.com&color=grey&style=flat-square&logo=Gmail)](mailto:curtis.c.bartell@gmail.com?subject=Let's%20chat!)
+[![GMail Shield](https://img.shields.io/static/v1?color=grey&style=flat-square&logo=gmail&label=&message=curtis.c.bartell@gmail.com)](mailto:curtis.c.bartell@gmail.com?subject=Let's%20chat!)
 [![Twitter Shield](https://img.shields.io/static/v1?label=&message=@curtis_codes&color=grey&style=flat-square&logo=twitter)](https://twitter.com/curtis_codes)
 
 <!--
