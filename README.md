@@ -15,6 +15,7 @@ When I'm not programming, you can find me nerding out over sci-fi, listening to 
 
 ### I'm currently learning:
 - JavaScript / Node.JS
+- Python / Flask
 
 ### Get in touch with me! 📣
 I'm always looking to talk about code (or anything else, really 😁) and meet new people!
