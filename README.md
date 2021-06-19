@@ -10,12 +10,12 @@ When I'm not programming, you can find me nerding out over sci-fi, listening to 
 
 
 ### I'm currently working on:
+- Working as a Software Engineer at Hy-Vee, Inc.
 - [Diaper](https://www.humanessentials.app/), an open-source inventory management solution for diaper banks
-- Currently looking for new opportunities
+- Becoming a Vim master
 
 ### I'm currently learning:
 - JavaScript / Node.JS
-- Python / Flask
 
 ### Get in touch with me! 📣
 I'm always looking to talk about code (or anything else, really 😁) and meet new people!
