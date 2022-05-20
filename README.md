@@ -1,21 +1,23 @@
 ## Hello, World! I'm Curtis. He/Him 👾
 
 ### 🤖 Curtis the Programmer:
-I'm a Software Engineer in Denver, CO, and a graduate of the Backend Engineering program at [The Turing School of Software and Design](https://turing.edu/). I'm a passionate learner, relentless tinkerer, and persistent in the application of my creativity and expertise to solve complex problems.
+I'm a Software Engineer in Denver, CO, and a graduate of the Backend Engineering program at [The Turing School of Software and Design](https://turing.edu/). I'm a passionate learner, relentless tinkerer, and persistent in the application of my creativity and expertise to solve complex problems. I have experience accross multiple backend technologies including ecma JavaScript and Ruby/Rails.
 
 [![Curtis's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-bartell&count_private=true&show_icons=true&theme=synthwave)](https://github.com/c-bartell)
 
 ### 🤘 Curtis the Human:
-When I'm not programming, you can find me nerding out over sci-fi, listening to metal, playing videogames, or hanging out with my partner, Danielle and our shih tzu, Eevee. 🐶
-
+When I'm not programming, you can find me nerding out over sci-fi, listening to metal, playing videogames, or hanging out with my partner, Danielle, our shih tzu, Eevee 🐶, and our cat Laszlo 🐈‍⬛.
 
 ### I'm currently working on:
-- Working as a Software Engineer at Hy-Vee, Inc.
-- [Diaper](https://www.humanessentials.app/), an open-source inventory management solution for diaper banks
-- Becoming a Vim master
+- I'm working as a Platform Engineer at Ibotta
+- Mentoring Turing students
+- Becoming a Vim master (I swear I'm not one of ["those people"](https://xkcd.com/378/))
+- Falling into the black hole that is creating a homelab
 
 ### I'm currently learning:
-- JavaScript / Node.JS
+- TypeScript
+- AWS
+- Terraform
 
 ### Get in touch with me! 📣
 I'm always looking to talk about code (or anything else, really 😁) and meet new people!
