@@ -24,7 +24,6 @@ I'm always looking to talk about code (or anything else, really 😁) and meet n
 
 [![LinkedIn Shield](https://img.shields.io/static/v1?label=&message=Curtis+Bartell&color=grey&style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/curtis-bartell/)
 [![GMail Shield](https://img.shields.io/static/v1?color=grey&style=flat-square&logo=gmail&label=&message=curtis.c.bartell@gmail.com)](mailto:curtis.c.bartell@gmail.com?subject=Let's%20chat!)
-[![Twitter Shield](https://img.shields.io/static/v1?label=&message=@curtis_codes&color=grey&style=flat-square&logo=twitter)](https://twitter.com/curtis_codes)
 
 <!--
 **c-bartell/c-bartell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
